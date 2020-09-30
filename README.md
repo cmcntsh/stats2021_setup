@@ -27,6 +27,8 @@
   * (Instructions came from answer on StackOverflow: https://stackoverflow.com/questions/56970149/how-do-i-change-the-user-in-vscode-and-link-my-github-account)
 
 ## R
+* Download R and RStudio Windows (4 min): https://www.youtube.com/watch?v=GAGUDL-4aVw
+* Download R and RStudio Mac (5 min): https://www.youtube.com/watch?v=1PsPfMaLWSk
 * Download and install.
 * Go to the R computing page: https://www.r-project.org/
 * Click on the CRAN link under Download
@@ -34,6 +36,7 @@
 * Download and install the version of R appropriate for your computer. (Windows, Mac, Linux)
 
 ## RStudio
+* What is RStudio? (6 min): https://www.youtube.com/watch?v=riONFzJdXcs
 * Download and install.
 * Download page for RStudio Desktop: https://rstudio.com/products/rstudio/download/#download
 * Download the version of RStudio Desktop appriate for your computer. (Windows, Mac, Linux)
