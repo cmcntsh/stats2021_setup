@@ -42,6 +42,7 @@
 * Download the version of RStudio Desktop appriate for your computer. (Windows, Mac, Linux)
 
 ## Jamovi
+* Installing Jamovi (1 min): https://www.youtube.com/watch?v=syx0f4xCxpk&list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn&index=2
 * Download and install.
 * Download page for Jamovi: https://www.jamovi.org/download.html
 * Download the version of Jamovi appriate for your computer. (Windows, Mac, Linux)
