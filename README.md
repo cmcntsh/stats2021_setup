@@ -62,6 +62,7 @@
 * Link - https://www.anaconda.com/products/individual
 * The download links are at the bottom of the page. Scroll all the way down.
 * Download the version of Anaconda appriate for your computer. (Windows, Mac, Linux)
+* Some extra instructional material about Anaconda: https://github.com/cmcntsh/N6806_Fall2020_DevNotes/tree/master/010_Python_Setup
 
 ## rdrr.io
 * link - https://rdrr.io/snippets/
