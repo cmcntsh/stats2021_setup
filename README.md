@@ -13,7 +13,7 @@
 ## Git/Git-bash
 * Download and install.
 * Mac - https://git-scm.com/downloads
-* Windows - https://gitforwindows.org/
+* (2022 update: It looks like the link above now has a download for Windows. Go ahead and use that. I'm keeping this here in case there are any issues.) Windows - https://gitforwindows.org/
 
 ## GitHub
 * Set up an account.
