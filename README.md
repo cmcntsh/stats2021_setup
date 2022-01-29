@@ -55,14 +55,5 @@
 * Macs - Students using Macs will need to move the application from their downloads folder to their applications folder. They will then need to install the code command. This is done by opening VSCode and typing command + shift + p to open the search bar. Type shell command and select the first option.
 * Windows - Students using windows should change the default terminal in VSCode shell by typing ctrl + shift + p to open the search bar. Once the search bar is opened, have the students type select default shell. They will be able to select Bash as an option.
 
-## Anaconda
-* Optional
-* We will show some optional data manipulation in Python/Jupyter Notebooks in this class. You can download and install Anaconda if you want to follow along. It is optional so you don't have to if you don't want to.
-* Download and install.
-* Link - https://www.anaconda.com/products/individual
-* The download links are at the bottom of the page. Scroll all the way down.
-* Download the version of Anaconda appriate for your computer. (Windows, Mac, Linux)
-* Some extra instructional material about Anaconda: https://github.com/cmcntsh/N6806_Fall2020_DevNotes/tree/master/010_Python_Setup
-
 ## rdrr.io
 * link - https://rdrr.io/snippets/
