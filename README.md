@@ -1,5 +1,7 @@
 # Setup
 
+A video of completing some of these steps can be found at: https://youtu.be/iAX8BZKJohs
+
 ## Summary of Steps to Complete (See corresponding sections below.)
 - [ ] Download and install Git.
 - [ ] Set up a GitHub account.
