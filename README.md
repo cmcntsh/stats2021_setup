@@ -7,7 +7,6 @@
 - [ ] Download and install RStudio.
 - [ ] Download and install Jamovi.
 - [ ] Optional - Download and install VSCode.
-- [ ] Optional - Download and install Anaconda.
 - [ ] Optional - Check out rdrr.io for running R code online
 
 ## Git/Git-bash
